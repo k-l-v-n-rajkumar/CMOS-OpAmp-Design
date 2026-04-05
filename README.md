@@ -33,7 +33,7 @@ This project presents the design and analysis of a two-stage CMOS operational am
 ![Phase Plot](phase_plot.png)
 
 ### Gain/Phase plot
-![Gain/Phase Plot](gain&phase_plot.png)
+![Gain/Phase Plot](gain_over_phase_plot.png)
 
 ### Transient Response
 ![Transient](transient.png)
