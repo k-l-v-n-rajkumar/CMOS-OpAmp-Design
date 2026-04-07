@@ -42,37 +42,37 @@ The design uses **Miller compensation** to ensure stability and achieves strong 
 ## 📊 Results
 
 ### 🔹 Schematic
-![Schematic](schematics/opamp_schematic.png)
+![Schematic](opamp_schematic.png)
 
 ---
 
 ### 🔹 Gain Response
-![Gain Plot](simulations/gain_plot.png)
+![Gain Plot](gain_plot.png)
 
 ---
 
 ### 🔹 Phase Margin
-![Phase Plot](simulations/phase_plot.png)
+![Phase Plot](phase_plot.png)
 
 ---
 
 ### 🔹 Gain vs Phase
-![Gain/Phase Plot](simulations/gain_over_phase_plot.png)
+![Gain/Phase Plot](gain_over_phase_plot.png)
 
 ---
 
 ### 🔹 Transient Response
-![Transient](simulations/transient.png)
+![Transient](transient.png)
 
 ---
 
 ### 🔹 Power Analysis
-![Power](simulations/power_analysis.png)
+![Power](power_analysis.png)
 
 ---
 
 ## 📘 Project Report
-📄 [View Detailed Report](docs/OP_AMP_PROJECT_REPORT.pdf)
+📄 [View Detailed Report](OP_AMP_PROJECT_REPORT.pdf)
 
 ---
 
