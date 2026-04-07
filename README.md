@@ -14,6 +14,7 @@ The design uses **Miller compensation** to ensure stability and achieves strong 
 
 ---
 
+
 ## 🎯 Specifications
 
 | Parameter            | Value        |
